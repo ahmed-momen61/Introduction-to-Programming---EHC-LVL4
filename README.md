@@ -6,7 +6,7 @@ Extract Messages: Users can decode images files and see the hidden message that 
 
 * How It Works:
 In this practice, the instrument edits the least significant bit of every pixel for the purpose of concealing the binary version of the message.
-A unique end flag (11111111) indicates the end of the message being encoded.
+A unique end flag (01001010) indicates the end of the message being encoded.
 
 * Requirements:
 compiler support pythone language 
